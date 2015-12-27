@@ -21,3 +21,4 @@ db.sqlite
 
 .DS_Store
 .vagrant
+vendor/bundle
